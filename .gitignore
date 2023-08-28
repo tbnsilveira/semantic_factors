@@ -1,3 +1,6 @@
+# Author's defined ignored folders:
+references/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
