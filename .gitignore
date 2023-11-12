@@ -1,7 +1,9 @@
 /.gitignore
+.gitignore
 
-# Author's defined ignored folders:
+# Author's defined ignored files and folders:
 references/
+/semantic_factors.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
