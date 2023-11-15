@@ -2,6 +2,7 @@
 .gitignore
 
 # Author's defined ignored files and folders:
+notebooks/not_on_github/
 references/
 /semantic_factors.code-workspace
 
