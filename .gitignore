@@ -5,7 +5,7 @@
 data/not_public
 notebooks/not_public/
 references/
-output/
+outputs/
 /semantic_factors.code-workspace
 
 # Byte-compiled / optimized / DLL files
