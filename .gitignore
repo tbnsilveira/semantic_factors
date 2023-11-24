@@ -2,8 +2,10 @@
 .gitignore
 
 # Author's defined ignored files and folders:
-notebooks/not_on_github/
+data/not_public
+notebooks/not_public/
 references/
+output/
 /semantic_factors.code-workspace
 
 # Byte-compiled / optimized / DLL files
